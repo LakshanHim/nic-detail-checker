@@ -1,0 +1,22 @@
+.cd {
+    width: 100%;
+    height: 50px;
+    background-color: rgb(210, 239, 219);
+    border-radius: 10px;
+    margin-top: 15px;
+}
+
+.name {
+    position: relative;
+    top: 5px;
+    left: 20px;
+    font-size: 13px;
+}
+
+.name2 {
+    position: relative;
+    top: 10px;
+    font-size: 18px;
+    left: 20px;
+    color: rgb(8, 100, 8);
+}

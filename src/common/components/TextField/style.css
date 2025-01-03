@@ -1,0 +1,12 @@
+.num{
+    width: 100%;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 20px; 
+    border: 1px solid green;
+    
+}
+::placeholder {
+    color: rgb(43, 197, 26);
+  }

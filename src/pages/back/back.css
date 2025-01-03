@@ -1,0 +1,34 @@
+.two{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
+.cover{
+    width: 400px;
+    background-color: rgb(245, 247, 247);
+    border-radius: 25px 25px 20px 20px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    
+}
+.img{
+    z-index: 0;
+    width: 100%;
+    border-radius: 20px;
+    background-color: rgb(52, 163, 133);
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.ele{
+    padding: 20px;
+}
+.RoundBtn{
+    position: relative;
+    right: 0px;
+    left: 361px;
+    top: 1px;
+}
+.type{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}

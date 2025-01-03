@@ -1,0 +1,24 @@
+.btn{
+    width: 100%;
+    height: 40px;
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
+.btnR{
+    border-radius: 100%;
+    width: 20px;
+    height: 20px;
+    border: 1px solid white;
+    z-index: 1;
+    position: absolute;
+}
+.clz{
+    position: relative;
+    width: 15px;
+    left: -4px;
+}
+.clz:hover{
+    background-color: red;
+}
